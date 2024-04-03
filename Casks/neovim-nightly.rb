@@ -6,5 +6,5 @@ cask 'neovim-nightly' do
   name 'Neovim Nightly'
   homepage 'https://neovim.io/'
 
-  binary 'nvim-macos/bin/nvim'
+  binary 'nvim-macos-x86_64/bin/nvim'
 end
